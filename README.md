@@ -15,7 +15,7 @@ Loves to listen to classical music when coding.
 ## Experience
 
 Lusso Caffe (2019 - 2020)  
-_social media specialist
+- social media specialist
 
 - managing multiple social media accounts, content, logo creations
 
