@@ -1,6 +1,9 @@
-## Your Name
+## Kristyna Cervenkova
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A current Makers student
+
+Recent psychology graduate & future Junior Full Stack Developer. Interested in UX design & Orgometrics.
+Loves to listen to classical music when coding.
 
 ## Projects
 
@@ -11,54 +14,44 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Lusso Caffe (2019 - 2020)  
+_social media specialist
 
-- Any experience relevent to software development
+- managing multiple social media accounts, content, logo creations
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Margot (2019 - 2020)  
+- receptionist
 
-- Any experience relevent to software development
+- working with booking softwares, creating daily reports
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+- problem-solving skills
+  - solve problems in an effective and timely manner
+- empathy
+  - ability to work effectively in a team or individually
+  - understanding of the group interactions on deeper level
+- tenacity, organisational & time management skills
+  - ability to be punctual and plan ahead
 
-- Experience
-- Achievements
-- Evidence
+Education
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
+# Makers Academy (2020 - 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London South Bank University (2017 - 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Psychology BSc Hons
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Cooking
+Photography
+Design
