@@ -9,7 +9,7 @@ Loves to listen to classical music when coding.
 
 | Name                                                              | Description       | Tech/tools        |
 | ----------------------------------------------------------------- | ----------------- | ----------------- |
-| **[The Task Monster]**(https://github.com/kristycer/Task-Monster) | A webapp to do x. | React, Jest, etc. |
+| **[The Task Monster](https://github.com/kristycer/Task-Monster)** | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on**                                      | A webapp to do y. | Ruby              |
 
 ## Experience
