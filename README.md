@@ -5,12 +5,13 @@ A current Makers student
 Recent psychology graduate & future Junior Full Stack Developer. Interested in UX design & Orgometrics.
 Loves to listen to classical music when coding.
 
-## Projects
+## Some of the Projects
 
-| Name                                                              | Description       | Tech/tools        |
-| ----------------------------------------------------------------- | ----------------- | ----------------- |
-| **[The Task Monster](https://github.com/kristycer/Task-Monster)** | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on**                                      | A webapp to do y. | Ruby              |
+| Name                                                              | Description                            | Tech/tools                               |
+| ----------------------------------------------------------------- | -------------------------------------- | ---------------------------------------- |
+| **[The Task Monster](https://github.com/kristycer/Task-Monster)** | Full stack app - a gamified todo list  | Ruby on Rails, React native, MongoDB, JS |
+| **[Railsbook](https://github.com/kristycer/acebook)**             | Team project to build a Facebook clone | Ruby on Rails, Ruby, PostgreSQL, RSpec   |
+| **[MakersBNB](https://github.com/kristycer/MakersBNB)**           | Team project to build an airbnb clone  | Ruby, Postgresql, RSpec                  |
 
 ## Experience
 
