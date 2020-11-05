@@ -7,19 +7,21 @@ Loves to listen to classical music when coding.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                                              | Description       | Tech/tools        |
+| ----------------------------------------------------------------- | ----------------- | ----------------- |
+| **[The Task Monster]**(https://github.com/kristycer/Task-Monster) | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on**                                      | A webapp to do y. | Ruby              |
 
 ## Experience
 
-Lusso Caffe (2019 - 2020)  
+Lusso Caffe (2019 - 2020)
+
 - social media specialist
 
 - managing multiple social media accounts, content, logo creations
 
-Margot (2019 - 2020)  
+Margot (2019 - 2020)
+
 - receptionist
 
 - working with booking softwares, creating daily reports
@@ -48,7 +50,6 @@ Education
 #### London South Bank University (2017 - 2020)
 
 - Psychology BSc Hons
-
 
 ## Hobbies
 
